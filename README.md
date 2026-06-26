@@ -1,4 +1,4 @@
-- #👋 Hi, I’m **Md Tauseef Raza** 
+#- 👋 Hi, I’m **Md Tauseef Raza** 
 - 💻 Computer Science (Data Science) student passionate about AI, Machine Learning, and Software Development.
 - 🌱 Currently learning **DSA, Machine Learning, Deep Learning, and Backend Development**.
 - 🚀 Building projects and always open to collaborating on interesting ideas.

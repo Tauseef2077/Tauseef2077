@@ -2,30 +2,12 @@
 
 ##  About Me
 
-I'm a Computer Science (Data Science) undergraduate passionate about building intelligent software and solving real-world problems with AI. I enjoy working across the entire machine learning pipeline—from data preprocessing and model development to deployment—while continuously expanding my expertise in Data Structures & Algorithms, Deep Learning, Backend Development, and modern software engineering. My primary toolkit includes Python, SQL, Scikit-learn, TensorFlow, PyTorch, Pandas, and NumPy, and I'm always eager to learn new technologies and collaborate on impactful projects.
+I am a Computer Science undergraduate with a specialization in **Data Science** at **ITER, Siksha 'O' Anusandhan (SOA) University**. I am passionate about Artificial Intelligence, Machine Learning, and Software Development, and enjoy building projects that solve real-world problems. I am constantly learning new technologies and improving my skills in programming, problem-solving, and software engineering.
+
+🎓 **B.Tech in Computer Science & Engineering (Data Science)**
+**ITER, Siksha 'O' Anusandhan (SOA) University** *(2023 – Present)*
+**Current CGPA:** **9.7 / 10.0**
 
 🌐 **Creator of:** [overfit.codes](https://overfit.codes) — an online platform for Machine Learning coding and practice.
 
 📫 **Email:** [tauseefraza4590@gmail.com](mailto:tauseefraza4590@gmail.com)
-
-## Education
-
-* **Bachelor of Technology in Computer Science and Engineering (Data Science)**
-  -ITER (Siksha 'O' Anusandhan University), Bhubaneswar, Odisha
-  -2023 – Present *(Expected Graduation: 2027)*
-  -CGPA: **9.7**
-
-<br>
-
-* **12th Standard (CBSE)**
-  Tata DAV Public School, Ramgarh, Jharkhand
-  2022 – 2023
-  Percentage: **73.67%**
-
-<br>
-
-* **10th Standard (CBSE)**
-  Tata DAV Public School, Ramgarh, Jharkhand
-  2020 – 2021
-  Percentage: **88.17%**
-

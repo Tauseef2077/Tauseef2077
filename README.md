@@ -11,9 +11,9 @@ I'm a Computer Science (Data Science) undergraduate passionate about building in
 ## Education
 
 * **Bachelor of Technology in Computer Science and Engineering (Data Science)**
-  ITER (Siksha 'O' Anusandhan University), Bhubaneswar, Odisha
-  2023 – Present *(Expected Graduation: 2027)*
-  CGPA: **9.7**
+  -ITER (Siksha 'O' Anusandhan University), Bhubaneswar, Odisha
+  -2023 – Present *(Expected Graduation: 2027)*
+  -CGPA: **9.7**
 
 <br>
 

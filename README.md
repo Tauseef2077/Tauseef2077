@@ -8,25 +8,35 @@ I'm a Computer Science (Data Science) undergraduate passionate about building in
 
 📫 **Email:** [tauseefraza4590@gmail.com](mailto:tauseefraza4590@gmail.com)
 
-## 🎓 Education
+## Education
 
 * **Bachelor of Technology in Computer Science and Engineering (Data Science)**
 
-  **ITER, Siksha 'O' Anusandhan (SOA) University**, Bhubaneswar, Odisha
-  **2023 – Present** *(Expected Graduation: 2027)*
-  **CGPA:** 9.7
+  ITER (Siksha 'O' Anusandhan University), Bhubaneswar, Odisha
 
-  **Relevant Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Computer Networks, Machine Learning, Deep Learning, Cloud Computing, Data Engineering, Data Analysis, Data Preprocessing, Feature Engineering, and Model Evaluation.
+  2023 – Present *(Expected Graduation: 2027)*
+
+  CGPA: **9.7**
+
+  Relevant Coursework: Data Structures & Algorithms, DBMS, Machine Learning, Deep Learning, Cloud Computing, OOPs, Computer Networks, Data Engineering, Data Analysis, Data Preprocessing, Feature Engineering, Model Evaluation.
+
+<br>
 
 * **12th Standard (CBSE)**
 
-  **Tata DAV Public School**, Ramgarh, Jharkhand
-  **2022 – 2023**
-  **Percentage:** 73.67%
+  Tata DAV Public School, Ramgarh, Jharkhand
+
+  2022 – 2023
+
+  Percentage: **73.67%**
+
+<br>
 
 * **10th Standard (CBSE)**
 
-  **Tata DAV Public School**, Ramgarh, Jharkhand
-  **2020 – 2021**
-  **Percentage:** 88.17%
+  Tata DAV Public School, Ramgarh, Jharkhand
+
+  2020 – 2021
+
+  Percentage: **88.17%**
 

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m **Md Tauseef Raza** (@Tauseef2077)
+- #👋 Hi, I’m **Md Tauseef Raza** 
 - 💻 Computer Science (Data Science) student passionate about AI, Machine Learning, and Software Development.
 - 🌱 Currently learning **DSA, Machine Learning, Deep Learning, and Backend Development**.
 - 🚀 Building projects and always open to collaborating on interesting ideas.
 - 🌐 Creator of: **[overfit.codes](https://overfit.codes)**  -  an online ML coding platform.
-- 📫 Reach me through 
+- 📫 Email : <tauseefraza4590@gmail.com>

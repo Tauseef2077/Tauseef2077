@@ -2,5 +2,5 @@
 - 💻 Computer Science (Data Science) student passionate about AI, Machine Learning, and Software Development.
 - 🌱 Currently learning **DSA, Machine Learning, Deep Learning, and Backend Development**.
 - 🚀 Building projects and always open to collaborating on interesting ideas.
-- 🌐 Creator of: **https://overfit.codes** *(or [overfit.codes](https://overfit.codes))*
+- 🌐 Creator of: **overfit.codes** 
 - 📫 Reach me through my portfolio or GitHub.

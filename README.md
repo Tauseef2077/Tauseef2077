@@ -8,6 +8,6 @@ I am a Computer Science undergraduate with a specialization in **Data Science** 
 **ITER, Siksha 'O' Anusandhan (SOA) University (2023 – 2027)**  
 **Current CGPA:** **9.7**
 
-🌐 **Creator of:** [overfit.codes](https://overfit.codes) — an online platform for Machine Learning coding and practice.
+🌐 **Creator of:** [overfit.codes](https://overfit.codes) - an online platform for Machine Learning coding and practice.
 
 📫 **Email:** [tauseefraza4590@gmail.com](mailto:tauseefraza4590@gmail.com)
